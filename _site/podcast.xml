@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Kahlil Lechelt</title>
+    <description>JavaScript developer &amp;amp; Podcast boi at the Reactive podcast. </description>
+    <link>https://ka.micro.blog/</link>
+    <pubDate>Wed, 22 Aug 2018 16:11:43 +0200</pubDate>
+    <lastBuildDate>Wed, 22 Aug 2018 16:11:43 +0200</lastBuildDate>
+	<itunes:image href="https://micro.blog/ka/podcast.png" />
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Personal Journals"></itunes:category>
+	</itunes:category>
+	<itunes:author>Kahlil Lechelt</itunes:author>
+	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>Kahlil Lechelt</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
+	<language>en</language>
+    
+		
+    
+		
+    
+		
+    
+		
+    
+		
+    
+		
+    
+		
+    
+		
+    
+  </channel>
+</rss>
