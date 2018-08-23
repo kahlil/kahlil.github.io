@@ -1,0 +1,51 @@
+highlighter: "rouge"
+# - markdown: "kramdown"
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+
+plugins:
+  - jekyll-sitemap
+
+title: "Kahlil Lechelt"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/ka\">@ka on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/ka\">@ka on Micro.blog</a>."
+baseurl: ""
+url: "https://ka.micro.blog"
+markdown: "kramdown"
+username: "ka"
+microblog_user: "ka"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Kahlil Lechelt"
+name: "Kahlil Lechelt"
+gravatar_hash: "587224015712c049c6fdcbbd08d1c0a3"
+avatar: "https://micro.blog/ka/avatar.jpg"
+full_name: "Kahlil Lechelt"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "Poland"
+site_id: "1832"
+gems: ["jekyll-paginate"]
+itunes_description: "JavaScript developer &amp; Podcast boi at the Reactive podcast. "
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "Kahlil Lechelt"
+itunes_email: ""
+podcast: false
