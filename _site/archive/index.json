@@ -1,0 +1,73 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Kahlil Lechelt",
+	"home_page_url": "https://ka.micro.blog/",
+	"feed_url": "https://ka.micro.blog/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://ka.micro.blog/2018/06/17/i-just-learned.html",
+	      	
+			"content_text": "I just learned about accesskey the other day and it...",
+			"date_published": "2018-06-17T14:11:57+02:00",
+			"url": "https://ka.micro.blog/2018/06/17/i-just-learned.html"
+		},
+		
+		{
+			"id": "http://ka.micro.blog/2018/06/01/a-thunderstorm-in.html",
+	      	
+			"content_text": "\n\nA thunderstorm in Berlin.\n\n",
+			"date_published": "2018-06-01T17:57:25+02:00",
+			"url": "https://ka.micro.blog/2018/06/01/a-thunderstorm-in.html"
+		},
+		
+		{
+			"id": "http://ka.micro.blog/2018/05/25/were-looking-for.html",
+	      	
+			"content_text": "We’re looking for a new third co-host for our podcast...",
+			"date_published": "2018-05-25T15:14:00+02:00",
+			"url": "https://ka.micro.blog/2018/05/25/were-looking-for.html"
+		},
+		
+		{
+			"id": "http://ka.micro.blog/2018/05/24/feeling-the-new.html",
+	      	
+			"content_text": "Feeling the new Stefflon Don 🎧 itunes.apple.com/de/album/…\n",
+			"date_published": "2018-05-24T18:04:17+02:00",
+			"url": "https://ka.micro.blog/2018/05/24/feeling-the-new.html"
+		},
+		
+		{
+			"id": "http://ka.micro.blog/2018/05/23/gave-a-talk.html",
+	      	
+			"content_text": "Gave a talk about How To Build JavaScript Apps today....",
+			"date_published": "2018-05-23T21:42:51+02:00",
+			"url": "https://ka.micro.blog/2018/05/23/gave-a-talk.html"
+		},
+		
+		{
+			"id": "http://ka.micro.blog/2018/05/23/the-tig-notaro.html",
+	      	
+			"content_text": "The Tig Notaro Netflix Special is really great. Something about...",
+			"date_published": "2018-05-23T10:08:43+02:00",
+			"url": "https://ka.micro.blog/2018/05/23/the-tig-notaro.html"
+		},
+		
+		{
+			"id": "http://ka.micro.blog/2018/05/16/currently-hanging-at.html",
+	      	
+			"content_text": "Currently hanging at the FrankfurtJS meetup. Golo Roden and Mathias...",
+			"date_published": "2018-05-16T21:14:21+02:00",
+			"url": "https://ka.micro.blog/2018/05/16/currently-hanging-at.html"
+		},
+		
+		{
+			"id": "http://ka.micro.blog/2018/05/16/sup-this-is.html",
+	      	
+			"content_text": "Sup!? This is me testing out micro.blog for realz.\n",
+			"date_published": "2018-05-16T21:08:32+02:00",
+			"url": "https://ka.micro.blog/2018/05/16/sup-this-is.html"
+		}
+		
+	]
+}
