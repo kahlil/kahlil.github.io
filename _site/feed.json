@@ -1,0 +1,73 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Kahlil Lechelt",
+	"home_page_url": "https://ka.micro.blog/",
+	"feed_url": "https://ka.micro.blog/feed.json",
+	"items": [
+		
+		{
+			"id": "http://ka.micro.blog/2018/06/17/i-just-learned.html",
+	      	
+			"content_html": "<p>I just learned about <code class=\"highlighter-rouge\">accesskey</code> the other day and it blew my mind. Add keyboard shortcuts to your HTML like it’s nothing!</p>\n\n<p><a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey\">developer.mozilla.org/en-US/doc…</a></p>\n",
+			"date_published": "2018-06-17T14:11:57+02:00",
+			"url": "https://ka.micro.blog/2018/06/17/i-just-learned.html"
+		},
+		
+		{
+			"id": "http://ka.micro.blog/2018/06/01/a-thunderstorm-in.html",
+	      	
+			"content_html": "<p><a href=\"http://ka.micro.blog/uploads/2018/2a5a7d048c.jpg\"><img src=\"http://ka.micro.blog/uploads/2018/2a5a7d048c.jpg\" width=\"449\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>A thunderstorm in Berlin.</p>\n\n",
+			"date_published": "2018-06-01T17:57:25+02:00",
+			"url": "https://ka.micro.blog/2018/06/01/a-thunderstorm-in.html"
+		},
+		
+		{
+			"id": "http://ka.micro.blog/2018/05/25/were-looking-for.html",
+	      	
+			"content_html": "<p>We’re looking for a new third co-host for our podcast <a href=\"http://reactive.audio\">@reactivepod</a>. Unfortunately @rockbot was way to busy with her job at @slack to continue on a regular basis. Any ideas who might be a good fit?</p>\n",
+			"date_published": "2018-05-25T15:14:00+02:00",
+			"url": "https://ka.micro.blog/2018/05/25/were-looking-for.html"
+		},
+		
+		{
+			"id": "http://ka.micro.blog/2018/05/24/feeling-the-new.html",
+	      	
+			"content_html": "<p>Feeling the new Stefflon Don 🎧 <a href=\"https://itunes.apple.com/de/album/senseless/1383298056?i=1383298311&amp;l=en\">itunes.apple.com/de/album/…</a></p>\n",
+			"date_published": "2018-05-24T18:04:17+02:00",
+			"url": "https://ka.micro.blog/2018/05/24/feeling-the-new.html"
+		},
+		
+		{
+			"id": "http://ka.micro.blog/2018/05/23/gave-a-talk.html",
+	      	
+			"content_html": "<p>Gave a talk about How To Build JavaScript Apps today. In front of students who were mainly interested in backend development. Needless to say they were thrilled.</p>\n",
+			"date_published": "2018-05-23T21:42:51+02:00",
+			"url": "https://ka.micro.blog/2018/05/23/gave-a-talk.html"
+		},
+		
+		{
+			"id": "http://ka.micro.blog/2018/05/23/the-tig-notaro.html",
+	      	
+			"content_html": "<p>The Tig Notaro Netflix Special is really great. Something about her comedy is downright genius. It’s the way how she plays with the tension in the room.</p>\n",
+			"date_published": "2018-05-23T10:08:43+02:00",
+			"url": "https://ka.micro.blog/2018/05/23/the-tig-notaro.html"
+		},
+		
+		{
+			"id": "http://ka.micro.blog/2018/05/16/currently-hanging-at.html",
+	      	
+			"content_html": "<p>Currently hanging at the FrankfurtJS meetup. Golo Roden and Mathias Wagler are really killing it with <a href=\"https://www.wolkenkit.io\">wolkenkit</a>.</p>\n",
+			"date_published": "2018-05-16T21:14:21+02:00",
+			"url": "https://ka.micro.blog/2018/05/16/currently-hanging-at.html"
+		},
+		
+		{
+			"id": "http://ka.micro.blog/2018/05/16/sup-this-is.html",
+	      	
+			"content_html": "<p>Sup!? This is me testing out micro.blog for realz.</p>\n",
+			"date_published": "2018-05-16T21:08:32+02:00",
+			"url": "https://ka.micro.blog/2018/05/16/sup-this-is.html"
+		}
+		
+	]
+}
