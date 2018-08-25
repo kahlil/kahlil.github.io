@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://ka.micro.blog/2018/08/22/mr-eazi-property.html",
+	      	
+			"content_html": "<p>Mr. Eazi “Property” is my jam right now! <a href=\"https://www.youtube.com/watch?v=qPSQjsHcrZs\">www.youtube.com/watch</a></p>\n",
+			"date_published": "2018-08-22T17:23:08+02:00",
+			"url": "https://ka.micro.blog/2018/08/22/mr-eazi-property.html"
+		},
+		
+		{
+			"id": "http://ka.micro.blog/2018/08/22/trying-to-get.html",
+	      	
+			"content_html": "<p>Trying to get my Micro.blog to GitHub mirror to work.</p>\n",
+			"date_published": "2018-08-22T16:12:26+02:00",
+			"url": "https://ka.micro.blog/2018/08/22/trying-to-get.html"
+		},
+		
+		{
 			"id": "http://ka.micro.blog/2018/06/17/i-just-learned.html",
 	      	
 			"content_html": "<p>I just learned about <code class=\"highlighter-rouge\">accesskey</code> the other day and it blew my mind. Add keyboard shortcuts to your HTML like it’s nothing!</p>\n\n<p><a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey\">developer.mozilla.org/en-US/doc…</a></p>\n",
